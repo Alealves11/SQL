@@ -1,8 +1,23 @@
 # SQL
 
 
-Neste respositório encontrará alguns exemplos de códigos do comando SELECT do Básico ao Avançado.
-Algumas funções de agregações e comandos são do T-SQL extensão do Microsoft SQL Server.
+Neste respositório farei a inserção de códigos do Básico ao Avançado que irei aprendendo e deixarei publico por aqui. 
 
 
-Introução ao comando SELECT em banco de dados do tipo Relacional (RBDMS), popularmente conhecido como SQL (Structure Query Language), em portugês Linguagem de Consulta Estruturada. Para os exemplos vamos utilizar a base de dados de estudos do Northwind do MS SQL Server, porém podem utilizar qualquer base distinta como desejar, basta usar a mesma sintáxe como espelho.
+SELECT simples
+WHERE
+Order By
+Group By
+Operadores aritméticos
+Operadores lógicos
+Operadores de comparação
+Operador Like
+Select com variáveis
+CONCAT e CONCAT_WS
+Pivot
+Sub-Select
+Replace
+Inner Join
+Lenght
+Left
+Right
